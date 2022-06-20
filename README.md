@@ -63,7 +63,6 @@ To see my portfolio [click here](https://mdmoniruzzaman.netlify.app/)
   ✅React-Hook
     </td>
     <td>
-     <br/>
     ✅Next-JS
     <br/>
     ✅React-Native
