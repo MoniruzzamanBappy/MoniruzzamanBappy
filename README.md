@@ -14,41 +14,49 @@ To see my portfolio [click here](https://mdmoniruzzaman.netlify.app/)
 </tr>
 <tr>
 <td>
-  C++, JavaScript, React-JS, JWT, Firebase Authentication, Tailwind CSS, Bootstrap,
-Rest API, Axios, React-Hook, Material-UI, Daisy-UI
+  ✅C++
+  <br/>
+  ✅JavaScript
+  <br/>
+  ✅ES6 
+  <br/>
+  ✅React-JS
+  <br/>
+  ✅JWT
+  <br/>
+  ✅Firebase Authentication
+  <br/>
+  ✅Tailwind CSS
+  <br/>
+  ✅ Bootstrap
+  <br/>
+  ✅Rest API
+  <br/>
+  ✅Axios
+  <br/>
+  ✅React-Hook
+  <br/>
+  ✅Material-UI
+  <br/>
+  ✅Daisy-UI
 </td>
 <td>
-   Express, Node-JS, Stripe, MongoDB, Re-Chart.
+  ✅Express
+  <br/>
+  ✅Node-JS
+  <br/>
+  ✅Stripe
+  <br/>
+  ✅MongoDB
+  <br/>
+  ✅Re-Chart
 </td>
 </tr>
 </table>
 
 
-<br>
-✅HTML
-<br>
-✅CSS
-<br>
-✅JS
-<br/>
-✅ES6
-<br>
-✅REACT JS
-<br>
-✅NODE JS
-<br>
-✅MONGODB
-<br>
-✅Material UI
-<br>
-✅Bootstrap
-<br>
-✅Tailwind CSS
-<br>
-✅Daisy UI
-
 # Md. Moniruzzaman
-## Portfolio
+## [Portfolio](https://mdmoniruzzaman.netlify.app/)
 
 **Connect with Me:**
 <br>
