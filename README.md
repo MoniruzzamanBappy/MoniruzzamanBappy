@@ -5,7 +5,25 @@ I'm a full stack web developer with great experience and I am learning a lot abo
 <br>
 To see my portfolio [click here](https://mdmoniruzzaman.netlify.app/)
 
-Skills: 
+#### Skills
+
+<table>
+<tr>
+<th> Expertise </th>
+<th> Comfortable </th>
+</tr>
+<tr>
+<td>
+  C++, JavaScript, React-JS, JWT, Firebase Authentication, Tailwind CSS, Bootstrap,
+Rest API, Axios, React-Hook, Material-UI, Daisy-UI
+</td>
+<td>
+   Express, Node-JS, Stripe, MongoDB, Re-Chart.
+</td>
+</tr>
+</table>
+
+
 <br>
 ✅HTML
 <br>
