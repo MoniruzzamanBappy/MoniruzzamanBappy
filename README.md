@@ -11,6 +11,8 @@ To see my portfolio [click here](https://mdmoniruzzaman.netlify.app/)
 <tr>
 <th> Expertise </th>
 <th> Comfortable </th>
+  
+<th> Tools </th>
 </tr>
 <tr>
 <td>
@@ -51,6 +53,17 @@ To see my portfolio [click here](https://mdmoniruzzaman.netlify.app/)
   <br/>
   ✅Re-Chart
 </td>
+  <td>
+  ✅Git
+     <br/>
+  ✅ Chrome Dev Tool
+     <br/>
+  ✅Figma
+     <br/>
+  ✅Heroku
+     <br/>
+  ✅Netlify
+  </td>
 </tr>
 </table>
 
