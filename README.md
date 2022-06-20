@@ -65,7 +65,6 @@ To see my portfolio [click here](https://mdmoniruzzaman.netlify.app/)
     <td>
      <br/>
     ✅Next-JS
-
     <br/>
     ✅React-Native
     <br/>
