@@ -65,6 +65,8 @@ To see my portfolio [click here](https://mdmoniruzzaman.netlify.app/)
   <br/>
   ✅Daisy-UI
     </td>
+    <td></td>
+     <td></td>
   </tr>
 </table>
 
