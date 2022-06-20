@@ -54,7 +54,7 @@ To see my portfolio [click here](https://mdmoniruzzaman.netlify.app/)
     <td>
   ✅Tailwind CSS
   <br/>
-  ✅ Bootstrap
+  ✅Bootstrap
   <br/>
   ✅Rest API
   <br/>
