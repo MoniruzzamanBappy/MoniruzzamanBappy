@@ -16,8 +16,6 @@ To see my portfolio [click here](https://mdmoniruzzaman.netlify.app/)
 </tr>
 <tr>
 <td>
-  ✅C++
-  <br/>
   ✅JavaScript
   <br/>
   ✅ES6 
@@ -27,20 +25,6 @@ To see my portfolio [click here](https://mdmoniruzzaman.netlify.app/)
   ✅JWT
   <br/>
   ✅Firebase Authentication
-  <br/>
-  ✅Tailwind CSS
-  <br/>
-  ✅ Bootstrap
-  <br/>
-  ✅Rest API
-  <br/>
-  ✅Axios
-  <br/>
-  ✅React-Hook
-  <br/>
-  ✅Material-UI
-  <br/>
-  ✅Daisy-UI
 </td>
 <td>
   ✅Express
@@ -56,7 +40,7 @@ To see my portfolio [click here](https://mdmoniruzzaman.netlify.app/)
   <td>
   ✅Git
      <br/>
-  ✅ Chrome Dev Tool
+  ✅Chrome Dev Tool
      <br/>
   ✅Figma
      <br/>
@@ -65,6 +49,23 @@ To see my portfolio [click here](https://mdmoniruzzaman.netlify.app/)
   ✅Netlify
   </td>
 </tr>
+  <tr>
+    <td>
+  ✅Tailwind CSS
+  <br/>
+  ✅ Bootstrap
+  <br/>
+  ✅Rest API
+  <br/>
+  ✅Axios
+  <br/>
+  ✅React-Hook
+  <br/>
+  ✅Material-UI
+  <br/>
+  ✅Daisy-UI
+    </td>
+  </tr>
 </table>
 
 
