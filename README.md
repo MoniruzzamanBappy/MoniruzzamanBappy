@@ -75,15 +75,15 @@ I'm a full stack web developer with great experience and I am learning a lot abo
   </tr>
   <tr>
     <td>
-  ✅Material-UI
+  ☑Material-UI
   <br/>
-  ✅Daisy-UI
+  ☑Daisy-UI
     <br/>
-    ✅React-Router
+    ☑React-Router
     <br/>
-    ✅HTML5
+    ☑HTML5
     <br/>
-    ✅CSS3
+    ☑CSS3
     </td>
     <td></td>
     <td></td>
