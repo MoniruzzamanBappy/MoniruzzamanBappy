@@ -17,15 +17,15 @@ I'm a full stack web developer with great experience and I am learning a lot abo
 </tr>
 <tr>
 <td>
-  ✅JavaScript
+  ☑JavaScript
   <br/>
-  ✅ES6 
+  ☑ES6 
   <br/>
-  ✅React-JS
+  ☑React-JS
   <br/>
-  ✅JWT
+  ☑JWT
   <br/>
-  ✅Firebase Authentication
+  ☑Firebase Authentication
 </td>
 <td>
   ✅Express
@@ -39,15 +39,15 @@ I'm a full stack web developer with great experience and I am learning a lot abo
   ✅Re-Chart
 </td>
   <td>
-  ✅Git
+  ☑Git
      <br/>
-  ✅Chrome Dev Tool
+  ☑Chrome Dev Tool
      <br/>
-  ✅Figma
+  ☑Figma
      <br/>
-  ✅Heroku
+  ☑Heroku
      <br/>
-  ✅Netlify
+  ☑Netlify
   </td>
 </tr>
   <tr>
