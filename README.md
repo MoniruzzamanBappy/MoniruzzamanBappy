@@ -19,7 +19,7 @@ I'm a full stack web developer with great experience and I am learning a lot abo
 <td>
   ✅JavaScript
   <br/>
-  ✅ES6 
+  ☑ES6 
   <br/>
   ✅React-JS
   <br/>
