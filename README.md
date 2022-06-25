@@ -104,5 +104,10 @@ To see my portfolio [click here](https://mdmoniruzzaman.netlify.app/)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoniruzzamanBappy&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MoniruzzamanBappy)
+1
+2
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MoniruzzamanBappy&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MoniruzzamanBappy&langs_count=5&theme=tokyonight)]()
+
 
 ![Profile views](https://gpvc.arturio.dev/MoniruzzamanBappy)
