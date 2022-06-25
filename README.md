@@ -1,4 +1,4 @@
-<p align='center'><img src='https://i.ibb.co/tLS4B1m/web-developing.gif' width='80%'/></p>
+<p align='center'><img src='https://i.ibb.co/tLS4B1m/web-developing.gif'/></p>
 # Hi there 👋,I'm Md. Moniruzzaman
 
 ## Web Developer
