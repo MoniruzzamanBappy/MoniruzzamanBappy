@@ -101,12 +101,10 @@ To see my portfolio [click here](https://mdmoniruzzaman.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-%23FB730F)](https://www.instagram.com/bappy.123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/mdmoniruzzamanbappy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoniruzzamanBappy&show_icons=true)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MoniruzzamanBappy&count_private=true&theme=tokyonight&showicons=true)]()
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MoniruzzamanBappy)
-1
-2
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=MoniruzzamanBappy&count_private=true&theme=tokyonight&showicons=true)]()
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MoniruzzamanBappy&langs_count=5&theme=tokyonight)]()
 
 
