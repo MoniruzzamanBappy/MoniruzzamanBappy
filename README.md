@@ -19,7 +19,7 @@ I'm a full stack web developer with great experience and I am learning a lot abo
 <td>
   ✅JavaScript
   <br/>
-  ☑ES6 
+  ✅ES6 
   <br/>
   ✅React-JS
   <br/>
@@ -63,13 +63,13 @@ I'm a full stack web developer with great experience and I am learning a lot abo
   ✅React-Hook
     </td>
     <td>
-    ✅Next-JS
+    ☑Next-JS
     <br/>
-    ✅React-Native
+    ☑React-Native
     <br/>
-    ✅GraphQL
+    ☑GraphQL
     <br/>
-    ✅D3.js
+    ☑D3.js
     </td>
     <td></td>
   </tr>
