@@ -4,7 +4,7 @@
 
 ## Web Developer
 
-I'm a full stack web developer with great experience and I am learning a lot about programming.
+I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
 <br>
 ## To see my portfolio [click here](https://mdmoniruzzaman.netlify.app/)
 
