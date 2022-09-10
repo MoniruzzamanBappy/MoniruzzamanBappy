@@ -35,7 +35,7 @@ I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clea
 </tr>
 <tr>
 <td>
-  ☑JavaScript
+  :ballot_box_with_check:JavaScript
   <br/>
   ☑ES6 
   <br/>
