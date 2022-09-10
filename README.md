@@ -6,7 +6,7 @@
 
 I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
 <br>
-## To see my portfolio [click here](https://mdmoniruzzaman.netlify.app/)
+## To see my portfolio [click here :globe_with_meridians:](https://mdmoniruzzaman.netlify.app/)
 
 #### Skills
 
@@ -110,11 +110,10 @@ I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clea
 
 # Md. Moniruzzaman
 
-## [Portfolio](https://mdmoniruzzaman.netlify.app/)
+## [Portfolio :globe_with_meridians:](https://mdmoniruzzaman.netlify.app/)
 
 **Connect with Me:**
 <br>
-
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/raimbos1)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-%23FB730F)](https://www.instagram.com/bappy.123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/mdmoniruzzamanbappy)
