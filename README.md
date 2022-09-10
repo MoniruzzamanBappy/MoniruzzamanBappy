@@ -95,13 +95,13 @@ I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clea
     <td>
   ☑Material-UI
   <br/>
-  ☑Daisy-UI
+  :ballot_box_with_check: Daisy-UI
     <br/>
-    ☑React-Router
+    ✅React-Router
     <br/>
-    ☑HTML5
+    ✅HTML5
     <br/>
-    ☑CSS3
+    ✅CSS3
     </td>
     <td></td>
     <td></td>
