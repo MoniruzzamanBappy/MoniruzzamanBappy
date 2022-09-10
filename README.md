@@ -95,7 +95,7 @@ I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clea
     <td>
   :ballot_box_with_check:Material-UI
   <br/>
-  :ballot_box_with_check: Daisy-UI
+  :ballot_box_with_check:Daisy-UI
     <br/>
     :ballot_box_with_check:React-Router
     <br/>
