@@ -37,71 +37,71 @@ I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clea
 <td>
   :ballot_box_with_check:JavaScript
   <br/>
-  ☑ES6 
+  :ballot_box_with_check:ES6 
   <br/>
-  ☑React-JS
+  :ballot_box_with_check:React-JS
   <br/>
-  ☑JWT
+  :ballot_box_with_check:JWT
   <br/>
-  ☑Firebase Authentication
+  :ballot_box_with_check:Firebase Authentication
 </td>
 <td>
-  :ballot_box_with_check:Express
+  :white_check_mark:Express
   <br/>
-  ✅Node-JS
+  :white_check_mark:Node-JS
   <br/>
-  ✅Stripe
+  :white_check_mark:Stripe
   <br/>
-  ✅MongoDB
+  :white_check_mark:MongoDB
   <br/>
-  ✅Re-Chart
+  :white_check_mark:Re-Chart
 </td>
   <td>
-  ☑Git
+  :ballot_box_with_check:Git
      <br/>
-  ☑Chrome Dev Tool
+  :ballot_box_with_check:Chrome Dev Tool
      <br/>
-  ☑Figma
+  :ballot_box_with_check:Figma
      <br/>
-  ☑Heroku
+  :ballot_box_with_check:Heroku
      <br/>
-  ☑Netlify
+  :ballot_box_with_check:Netlify
   </td>
 </tr>
   <tr>
     <td>
-  ✅Tailwind CSS
+  :white_check_mark:Tailwind CSS
   <br/>
-  ✅Bootstrap
+  :white_check_mark:Bootstrap
   <br/>
-  ✅Rest API
+  :white_check_mark:Rest API
   <br/>
-  ✅Axios
+  :white_check_mark:Axios
   <br/>
-  ✅React-Hook
+  :white_check_mark:React-Hook
     </td>
     <td>
-    ☑Next-JS
+    :ballot_box_with_check:Next-JS
     <br/>
-    ☑React-Native
+    :ballot_box_with_check:React-Native
     <br/>
-    ☑GraphQL
+    :ballot_box_with_check:GraphQL
     <br/>
-    ☑D3.js
+    :ballot_box_with_check:D3.js
     </td>
     <td></td>
   </tr>
   <tr>
     <td>
-  ☑Material-UI
+  :ballot_box_with_check:Material-UI
   <br/>
   :ballot_box_with_check: Daisy-UI
     <br/>
-    ✅React-Router
+    :ballot_box_with_check:React-Router
     <br/>
-    ✅HTML5
+    :ballot_box_with_check:HTML5
     <br/>
-    ✅CSS3
+    :ballot_box_with_check:CSS3
     </td>
     <td></td>
     <td></td>
