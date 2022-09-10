@@ -46,7 +46,7 @@ I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clea
   ☑Firebase Authentication
 </td>
 <td>
-  ✅Express
+  :ballot_box_with_check:Express
   <br/>
   ✅Node-JS
   <br/>
