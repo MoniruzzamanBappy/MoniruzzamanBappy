@@ -2,7 +2,7 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Md. Moniruzzaman
 
-# Working in Onito Tecnology Pvt Ltd as a SWE
+# Working in Onito Tecnology Pvt Ltd as a Front End React Developer
 
 ## Web Developer
 
